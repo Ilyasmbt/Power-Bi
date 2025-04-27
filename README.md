@@ -109,7 +109,7 @@ Data Visualization Techniques
 ## 📸 Preview
 (Insert screenshots of your dashboard pages here!)
 
-🚀 How to View This Project
+## 🚀 How to View This Project
 Clone this repository
 
 Download the .pbix file
