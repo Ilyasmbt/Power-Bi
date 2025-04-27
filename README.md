@@ -12,110 +12,110 @@ The dashboard is fully interactive and designed with a modern dark theme for bet
 
 ### Columns:
 
-Rank
+ Rank
 
-Name
+ Name
 
-Platform
+ Platform
 
-Year
+ Year
 
-Genre
+ Genre
 
-Publisher
+ Publisher
 
-NA_Sales (North America Sales)
+ NA_Sales (North America Sales)
 
-EU_Sales (Europe Sales)
+ EU_Sales (Europe Sales)
 
-JP_Sales (Japan Sales)
+ JP_Sales (Japan Sales)
 
-Other_Sales (Other Region Sales)
+ Other_Sales (Other Region Sales)
 
-Global_Sales (Total Worldwide Sales)
+ Global_Sales (Total Worldwide Sales)
 
 ## 🖥️ Dashboard Pages
 1. Home / Welcome Page
 
- Start video games-style starting screen
+  Start video games-style starting screen
 
 2. Global Sales Overview
-KPIs: Top Game, Top Publisher, Top Genre
+  KPIs: Top Game, Top Publisher, Top Genre
 
-Sales distribution by region (Pie Chart)
+  Sales distribution by region (Pie Chart)
 
-Genre performance (Treemap)
+  Genre performance (Treemap)
 
 3. Sales by Platform
 
-Platform-wise global sales
+  Platform-wise global sales
 
-Trend analysis across years
+  Trend analysis across years
 
-Interactive platform filters
+  Interactive platform filters
 
-Navigation buttons
+  Navigation buttons
 
 4. Genre Insights
 
-Global sales by game genre
+  Global sales by game genre
 
-Year-wise trend by genre
+  Year-wise trend by genre
 
-Genre comparison visuals
+  Genre comparison visuals
 
 5. Publisher Insights
 
-Top performing publishers
+  Top performing publishers
 
-Publisher-wise global sales breakdown
+  Publisher-wise global sales breakdown
 
 6. Top 5 Games
 
-List of the top 5 best-selling video games
+  List of the top 5 best-selling video games
 
-Visual comparisons
+  Visual comparisons
 
 7. Game Over Page
 
-Thank you message
+  Thank you message
 
-Retro video game-style ending screen
+  Retro video game-style ending screen
 
-"Restart" button design for finishing touch
+  "Restart" button design for finishing touch
 
 ## 📈 Key Features
-Professional page navigation buttons
+  Professional page navigation buttons
 
-Dark modern UI background (#0C1025)
+  Dark modern UI background (#0C1025)
 
-Clean filter design
+  Clean filter design
 
-Animated charts and visuals
+  Animated charts and visuals
 
-"Game Over" stylish ending screen
+  "Game Over" stylish ending screen
 
-Fully interactive and responsive
+  Fully interactive and responsive
 
 ## 📦 Tools & Technologies
-Microsoft Power BI
+  Microsoft Power BI
 
-DAX (Data Analysis Expressions)
+  DAX (Data Analysis Expressions)
 
-Data Modeling
+  Data Modeling
 
-Data Visualization Techniques
+  Data Visualization Techniques
 
 ## 📸 Preview
-(Insert screenshots of your dashboard pages here!)
+  (Insert screenshots of your dashboard pages here!)
 
 ## 🚀 How to View This Project
-Clone this repository
+  Clone this repository
 
-Download the .pbix file
+  Download the .pbix file
 
-Open using  Microsoft Power BI Desktop
+  Open using  Microsoft Power BI Desktop
 
-Explore the dashboard interactively across multiple pages
+  Explore the dashboard interactively across multiple pages
 
 ## 🙌 Thank You for Visiting!
